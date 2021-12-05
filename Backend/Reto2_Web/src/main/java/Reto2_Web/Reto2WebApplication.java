@@ -7,6 +7,10 @@
 
 package Reto2_Web;
 
+/**
+ * Este es el main para correo el Backend
+ */
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
